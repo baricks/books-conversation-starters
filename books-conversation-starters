@@ -1,0 +1,1244 @@
+{
+  "GoodreadsResponse": {
+    "Request": {
+      "authentication": "false",
+      "method": "
+ 
+"
+    },
+    "compare": {
+      "not_in_common": "771",
+      "your_library_percent": "10.14",
+      "their_library_percent": "6.81",
+      "your_total_books_count": "552",
+      "their_total_books_count": "827",
+      "common_count": "56",
+      "reviews": {
+        "review": [
+          {
+            "book": {
+              "title": "
+
+The Singularity is Near: When Humans Transcend Biology
+
+",
+              "id": "83518",
+              "url": "
+
+https://www.goodreads.com/book/show/83518.The_Singularity_is_Near
+
+"
+            },
+            "your_review": {
+              "id": "1229522050",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "94830383",
+              "rating": "read"
+            }
+          },
+          {
+            "book": {
+              "title": "Bleeding Edge",
+              "id": "17208457",
+              "url": "
+
+https://www.goodreads.com/book/show/17208457-bleeding-edge
+
+"
+            },
+            "your_review": {
+              "id": "710983730",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "763495682",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+ How Will You Measure Your Life? 
+",
+              "id": "13425570",
+              "url": "
+
+https://www.goodreads.com/book/show/13425570-how-will-you-measure-your-life
+
+"
+            },
+            "your_review": {
+              "id": "472945393",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "342392644",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+ What Do You Care What Other People Think? 
+",
+              "id": "5548",
+              "url": "
+
+https://www.goodreads.com/book/show/5548.What_Do_You_Care_What_Other_People_Think_
+
+"
+            },
+            "your_review": {
+              "id": "1253448896",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "11468074",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "A River Runs Through It",
+              "id": "38300",
+              "url": "
+
+https://www.goodreads.com/book/show/38300.A_River_Runs_Through_It
+
+"
+            },
+            "your_review": {
+              "id": "1352958311",
+              "rating": "3"
+            },
+            "their_review": {
+              "id": "9228",
+              "rating": "5",
+              "text": "
+
+I read this after I went fly fishing for the first time, and it was pure gold. A fantastic story.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "A Hologram for the King",
+              "id": "13722902",
+              "url": "
+
+https://www.goodreads.com/book/show/13722902-a-hologram-for-the-king
+
+"
+            },
+            "your_review": {
+              "id": "467083020",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "736835863",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Motherless Brooklyn",
+              "id": "328854",
+              "url": "
+
+https://www.goodreads.com/book/show/328854.Motherless_Brooklyn
+
+"
+            },
+            "your_review": {
+              "id": "1263315962",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "58109087",
+              "rating": "to-read",
+              "text": "
+
+Tim Ferriss digs it <a target=\"_blank\" href=\"http://www.fourhourworkweek.com/blog/2009/06/01/tim-ferriss-and-kevin-rose-discuss-their-top-5-must-read-books/\" rel=\"nofollow\">http://www.fourhourworkweek.com/blog/...</a>
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "New York",
+              "id": "6257535",
+              "url": "
+
+https://www.goodreads.com/book/show/6257535-new-york
+
+"
+            },
+            "your_review": {
+              "id": "393260160",
+              "rating": "2"
+            },
+            "their_review": {
+              "id": "367368470",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+
+The Signal and the Noise: Why So Many Predictions Fail - But Some Don't
+
+",
+              "id": "13588394",
+              "url": "
+
+https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise
+
+"
+            },
+            "your_review": {
+              "id": "455752536",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "495076721",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+ Gödel, Escher, Bach: An Eternal Golden Braid 
+",
+              "id": "24113",
+              "url": "
+
+https://www.goodreads.com/book/show/24113.G_del_Escher_Bach
+
+"
+            },
+            "your_review": {
+              "id": "884557771",
+              "rating": "currently-reading"
+            },
+            "their_review": {
+              "id": "302371344",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "The Sisters Brothers",
+              "id": "9850443",
+              "url": "
+
+https://www.goodreads.com/book/show/9850443-the-sisters-brothers
+
+"
+            },
+            "your_review": {
+              "id": "1263315321",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "343264047",
+              "rating": "3",
+              "text": "
+
+A fun, dark, slightly comical western about two killers (Charlie and Eli Sisters) on their way to California for the gold rush. Going into the mind of a killer is a strange experience - I'm not sure I totally enjoyed it. But what I did really enjoy was the authors writing; it was clean, fun, and even poetic - which made this book a quick enjoyable read.<br /><br />I loved all the introspective one-liners that Eli kept throwing out. For instance:<br /><br /><a href=\"http://www.goodreads.com/quotes/446214-but-i-could-not-sleep-without-proper-covering-and-spent\">\"but I could not sleep without proper covering and spent the rest of the night rewriting lost arguments from my past, altering history so that I emerged victorious.\"</a><br /><br /><a href=\"http://www.goodreads.com/quotes/413962-i-thought-when-a-man-is-properly-drunk-it-is\">\"I thought, When a man is properly drunk it is as though he is an a room by himself--there is a physical, impenetrable separation between him and his fellows.\"</a><br /><br /><a href=\"http://www.goodreads.com/quotes/575508-here-is-another-miserable-mental-image-i-will-have-to\">Here is another miserable mental image I will have to catalog and make room for.\"</a><br /><br /><a href=\"http://www.goodreads.com/quotes/600639-it-is-true-i-thought-i-am-living-a-life\">\"It is true, I thought. I am living a life.\"</a><br /><br /><a href=\"http://www.goodreads.com/quotes/600644-the-effects-of-her-words-stung-me-and-after-she\">\"The effects of her words stung me, and after she stole away I stood a long while before her looking glass, studying my profile, the line I cut in this world of men and ladies.\"</a><br /><br />I struggled however to find the point of this novel. What lesson was I meant to take away? What did we learn from Charlie and Eli's adventure? I suppose if anything the theme of the book was transformation. [spoilers removed] It takes guts to transform oneself - especially for the better. <br />
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "The Left Hand of Darkness",
+              "id": "118028",
+              "url": "
+
+https://www.goodreads.com/book/show/118028.The_Left_Hand_of_Darkness
+
+"
+            },
+            "your_review": {
+              "id": "1179607752",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "60954060",
+              "rating": "to-read",
+              "text": "
+
+Hoping to read it with the Sci-fi &amp; fantasy bookclub in July (if I can find a copy)
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "
+
+The Black Swan: The Impact of the Highly Improbable
+
+",
+              "id": "242472",
+              "url": "
+
+https://www.goodreads.com/book/show/242472.The_Black_Swan
+
+"
+            },
+            "your_review": {
+              "id": "167578507",
+              "rating": "2"
+            },
+            "their_review": {
+              "id": "70010616",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+ The Big Short: Inside the Doomsday Machine 
+",
+              "id": "8213519",
+              "url": "
+
+https://www.goodreads.com/book/show/8213519-the-big-short
+
+"
+            },
+            "your_review": {
+              "id": "393155003",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "110594995",
+              "rating": "4",
+              "text": "
+
+An extremely well-written account of the 2008 financial collapse. It explained complex ideas like subprime mortgage bonds and CDO's in a clear way, and almost read like a fast paced thriller.<br /><br />Essentially it seems that a bad ratings system and human greed created an economy that fostered t
+
+
+he creation of a lot of bad debts, that eventually went bad, and caused a lot of big companies to go under (Lehman brothers, Bear Sterns), or require a bailout (Goldman Sachs, AIG). This is the real crime. These big companies were so focused on short term profits that they failed to see that long term what they were doing wasn't going to work. They should be appropriately punished for this, and instead many of them were saved by Uncle Sam. Would we have had a worse recession if Obama hadn't done that? Maybe. Maybe not. Lewis should write another book about that :)<br /><br />Let me see if I can get this right. The book explains that mortgages are sold by the banks that issue them, passing off the risk. Mortgages are aggregated into groups in mortgage bonds, which are then packaged into tranches, which are rated by agencies such as Moody's and S&amp;P's. The math was complex, but apparently somehow tranches that consisted almost entirely of \"subprime\" (aka risky) mortgages were being given high A ratings. I guess the theory was that by spreading out the risk across lots of mortgage bonds it lowered the risk. Too bad this didn't work. <br /><br />Many of these mortgages were the variety that started 2 year fixed then went floating. They were largely taken out in 2005 - 2006, and as they hit 2 years the interest rates jumped as they went floating, and hoards of people defaulted. This explains why we teetered in 2007 and crashed in 2008. One of my favorite quotes to illustrate the madness:<br /><br /><a href=\"http://www.goodreads.com/quotes/show/306947\">\"In Bakersfield, California, a Mexican strawberry picker with an income of $14,000 and no English was lent every penny he needed to buy a house for $724,000.\"</a><br /><br />And it wasn't just in Bakersfield. All over the country people were taking out loans that were too big for their britches, because the banks were encouraging it:<br /><br /><a href=\"http://www.goodreads.com/quotes/show/306938\">\"The simple measure of sanity in housing prices, Zelman argued, was the ratio of median home price to income. Historically, in the United States, it ran around 3:1; by late 2004, it had risen nationally, to 4:1. “All these people were saying it was nearly as high in some other countries,” says Zelman. “But the problem wasn’t just that it was four to one. In Los Angeles it was ten to one and in Miami, eight-point-five to one.\"</a><br /><br />Economics is about incentives, and this book explained how they went very awry. But it was also a story about greed, and how even unintelligent people made a lot of money by riding the subprime mortgage train. The book followed several investors who noticed what was happening, but when they tried to tell people and test their \"crazy\" hypothesis that the financial world was going to collapse, they were mocked or ignored. So they just ended up shorting (betting against) the whole thing to make some money, which is what a good investor does.<br /><br /><a href=\"http://www.goodreads.com/quotes/show/306941\">\"What are the odds that people will make smart decisions about money if they don’t need to make smart decisions—if they can get rich making dumb decisions?\"</a><br /><br />I think the lesson in the end is that if it looks to good to be true, it is. That, and we need smarter people working at the ratings agencies.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Cryptonomicon",
+              "id": "816",
+              "url": "
+
+https://www.goodreads.com/book/show/816.Cryptonomicon
+
+"
+            },
+            "your_review": {
+              "id": "1179607116",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "297",
+              "rating": "5",
+              "text": "
+
+Just re-read this for the first time, and it's still one of my favorites. This book is geek-heaven: cryptography, world war II, code-breaking, nazi gold, and modern day internet beginnings all tied together in one masterful story.<br /><br />It also was largely lost on me, and I suspect many of my generation, that the second world war was won - or at least greatly accelerated - in great part due to the fact that we had cracked the German and Japanese codes. Learning more about the efforts of Bletchley Park, and Dr Alan Turing and huffduff and cribs, etc was fascinating.<br /><br />I think the funniest part of the book is the page where Stephenson actually graphs out how productive Waterhouse is when he has recently had sex (very productive) and when he hasn't (not very productive). <br /><br />The code-breaking and cryptography is not stuff I know a ton about, as modern day programmers largely don't have to worry about that stuff, but it's a good reminder to think about, as we don't have it on our brains nearly enough. Avi &amp; Randy's paranoia and tendency to encrypt everything from their hard drives to their emails may be overkill, on the other hand, it also may be wise. I remember getting email from people who used public/private keys to encrypt their email before, but not in the last 5 years. Maybe we should request that Gmail Labs add that!<br /><br />If there was a theme to this book, it's that cryptography is everything. It defined the second world war, and it also defines the modern internet. Information is king - not large caches of gold.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "
+
+The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
+
+",
+              "id": "771",
+              "url": "
+
+https://www.goodreads.com/book/show/771.The_Elegant_Universe
+
+"
+            },
+            "your_review": {
+              "id": "723795537",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "1382",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Dubliners",
+              "id": "11012",
+              "url": "
+
+https://www.goodreads.com/book/show/11012.Dubliners
+
+"
+            },
+            "your_review": {
+              "id": "167576375",
+              "rating": "2"
+            },
+            "their_review": {
+              "id": "918838702",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+
+In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin
+
+",
+              "id": "9938498",
+              "url": "
+
+https://www.goodreads.com/book/show/9938498-in-the-garden-of-beasts
+
+"
+            },
+            "your_review": {
+              "id": "393126910",
+              "rating": "4"
+            },
+            "their_review": {
+              "id": "169999805",
+              "rating": "4",
+              "text": "
+
+Great story of the US Ambassador to Germany and his experience during the build-up of ww2 from 1933 - 1937. Nothing new or exciting really revealed, and I'm sure there are many other accounts of the buildup to ww2 out there, but this one told it from the perspective of mostly the Ambassador, Dodd, and his daughter, Martha. The story was engaging and well-written, and thus interesting. I think the ending fell pretty flat - I was hoping for more.<br /><br />Reading about the Nazis one is of course always appalled at how they got to be in power and commit such atrocities, and this book did provide some clues. Hitler seemed primarily willing to tell people what they needed and wanted to hear, even if it wasn't the truth - and he was a great storyteller. He also used fear as a primary weapon, as there were many in Germany not behind him - but they were too afraid to make a stand or speak up.<br /><br />I suppose the climax of the book was the <a href=\"http://en.wikipedia.org/wiki/Night_of_the_Long_Knives\" rel=\"nofollow\">Night of the Long Knives</a>, where Hitler arrested and executed all of his major opponents, clearing the way for his absolute grip on the nation. He ruthlessly murdered an estimated 77 to several hundred people (the count was never really known) and played it off as putting down a rebellion, which much of the world bought for many years.<br /><br />I think one of the more interesting pieces of the book was watching Dodd (and Martha) go from thinking the Nazis were good for Germany, to realizing how terrible they were and hoping for them to be overthrown. It was a slow gradual process, and one that I'm sure was not immediately obvious to anyone. In the end, I think the book is aptly named.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "As I Lay Dying",
+              "id": "77013",
+              "url": "
+
+https://www.goodreads.com/book/show/77013.As_I_Lay_Dying
+
+"
+            },
+            "your_review": {
+              "id": "464480612",
+              "rating": "4"
+            },
+            "their_review": {
+              "id": "3226334",
+              "rating": "2"
+            }
+          },
+          {
+            "book": {
+              "title": "Freedom",
+              "id": "7905092",
+              "url": "
+
+https://www.goodreads.com/book/show/7905092-freedom
+
+"
+            },
+            "your_review": {
+              "id": "275833720",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "121966532",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+ Lean In: Women, Work, and the Will to Lead 
+",
+              "id": "16071764",
+              "url": "
+
+https://www.goodreads.com/book/show/16071764-lean-in
+
+"
+            },
+            "your_review": {
+              "id": "567326763",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "566883646",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Everything Is Illuminated",
+              "id": "256566",
+              "url": "
+
+https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated
+
+"
+            },
+            "your_review": {
+              "id": "167578816",
+              "rating": "2"
+            },
+            "their_review": {
+              "id": "36348488",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Their Eyes Were Watching God",
+              "id": "37415",
+              "url": "
+
+https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God
+
+"
+            },
+            "your_review": {
+              "id": "290826997",
+              "rating": "4"
+            },
+            "their_review": {
+              "id": "3226301",
+              "rating": "2"
+            }
+          },
+          {
+            "book": {
+              "title": "John Adams",
+              "id": "2203",
+              "url": "
+
+https://www.goodreads.com/book/show/2203.John_Adams
+
+"
+            },
+            "your_review": {
+              "id": "461159107",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "1025",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "The Name of the Rose",
+              "id": "8694005",
+              "url": "
+
+https://www.goodreads.com/book/show/8694005-the-name-of-the-rose
+
+"
+            },
+            "your_review": {
+              "id": "693112947",
+              "rating": "5",
+              "text": "
+
+Umberto Eco once remarked that he penned his first novel The Name of the Rose simply because he “felt like poisoning a monk.” If you are a fan of postmodern “whodunit” mysteries you’ll immediately get wrapped up in this book. Imagine the television show Twin Peaks set in a remote Italian monastery in the year 1327 and you’ll have a good sense of how the plot unfolds.<br /><br />William of Baskerville, a friar who adheres to Roger Bacon’s style of empirical reasoning, is called to a Benedictine abbey to investigate the murder of one of the monks. His assistant Adso is the book’s narrator, a device that allows Eco to observe medieval society through the eyes of a naive observer. Over the course of the novel a string of monks is murdered and the clues all point to the cultural heart of the abbey: the Aedificium. The Aedificium is a maze-like library in the style of Jorge Borges’ Library of Babel, potentially infinite and full of secrets. At night, monstrous apparitions appear in the library and monks pore over “strange” books. The murders prompt the arrival of the zealous Inquisitor Bernardo, who seeks to weed out the heretics in the abbey.<br /><br />In his “Postscript to The Name of the Rose,” Eco argues that just because a book is enjoyable doesn’t mean it lacks value or insight. This is certainly true in his novel, which offers up a nuanced commentary on intertextuality. Eco is a semiotician and a scholar of medieval literature. The novel, grounded in medieval history and containing real historical figures, is imbued with discussions of origins and language. For instance:<br /><br />“Books speak of books: it is as if they spoke among themselves. In the light of this reflection, the library seemed all the more disturbing to me. It was then the place of the long, centuries-old murmuring, an imperceptible dialogue between one parchment and another, a living thing, a receptacle of powers not to be ruled by a human mind, a treasure of secrets emanated by many minds, surviving the death of those who had produced them or had been their conveyers.” (296)<br /><br />I haven’t enjoyed a book this much in years.
+
+"
+            },
+            "their_review": {
+              "id": "120630552",
+              "rating": "3",
+              "text": "
+
+The Name of the Rose is a thrilling Dan Brown-esque murder mystery set in a 14th century Italian monastery. It really is two stories - the story of the murder mystery, and that of political climate in Italy at the time. And of course, they nicely interweave throughout. <br /><br />The history the book brought was one of my favorite parts. I learned about how the church controlled so much of the world, how even then it was already starting to fall from power, why saints are so prevalent in Italy, and more. I learned about Franciscans and Dolcians and minorites, and poverity and false monks. Poverty was a big theme, which came through on several levels: rebellions by poor people and religious leaders stepping in to lead the masses, and also an a debate about the role the Church should have in society. <br /><br />I loved brother William of baskerville. He was Sherlock Holmes-esque (so that can't be a coincidence he's from Baskerville right?) in his deductive reasoning and approach. I think my favorite moment of his was when he had no time left to solve the crime he said <a href=\"https://www.goodreads.com/quotes/7211405-when-a-man-has-little-time-he-must-take-care\">\"when a man has little time, he must take care to maintain his calm. We must act as if we had eternity before us.\"</a><br /><br />I took one star off because I often found myself skipping large sections that went into flowery details of something (often history) that just seemed irrelevant. <br /><br />The book was also a lot about change. The monks were so set in their ways and in their dogma that you could see how it likely took generations before a viewpoint could really change. [spoilers removed]<br />
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Neuromancer",
+              "id": "22328",
+              "url": "
+
+https://www.goodreads.com/book/show/22328.Neuromancer
+
+"
+            },
+            "your_review": {
+              "id": "1202823604",
+              "rating": "3"
+            },
+            "their_review": {
+              "id": "1696143",
+              "rating": "4",
+              "text": "
+
+Great book. A sci-fi classic. The fact that Gibson wrote this in 1984 is very impressive, as he makes many predictions that seem like they are coming true (was that a prediction?).
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Guns, Germs and Steel",
+              "id": "1006087",
+              "url": "
+
+https://www.goodreads.com/book/show/1006087.Guns_Germs_and_Steel
+
+"
+            },
+            "your_review": {
+              "id": "179098313",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "738270677",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "The Three Musketeers",
+              "id": "7190",
+              "url": "
+
+https://www.goodreads.com/book/show/7190.The_Three_Musketeers
+
+"
+            },
+            "your_review": {
+              "id": "17962520",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "2210",
+              "rating": "5",
+              "text": "
+
+Man I wish I hadn't read this yet so I could enjoy it again.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "
+ Do Androids Dream of Electric Sheep? 
+",
+              "id": "7082",
+              "url": "
+
+https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_
+
+"
+            },
+            "your_review": {
+              "id": "1091622484",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "7775580",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "The Fountainhead",
+              "id": "2122",
+              "url": "
+
+https://www.goodreads.com/book/show/2122.The_Fountainhead
+
+"
+            },
+            "your_review": {
+              "id": "85569618",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "317",
+              "rating": "5"
+            }
+          },
+          {
+            "book": {
+              "title": "
+
+Into Thin Air: A Personal Account of the Mount Everest Disaster
+
+",
+              "id": "1898",
+              "url": "
+
+https://www.goodreads.com/book/show/1898.Into_Thin_Air
+
+"
+            },
+            "your_review": {
+              "id": "275833407",
+              "rating": "2"
+            },
+            "their_review": {
+              "id": "2212",
+              "rating": "4"
+            }
+          },
+          {
+            "book": {
+              "title": "A Midsummer Night's Dream",
+              "id": "1622",
+              "url": "
+
+https://www.goodreads.com/book/show/1622.A_Midsummer_Night_s_Dream
+
+"
+            },
+            "your_review": {
+              "id": "167578608",
+              "rating": "3"
+            },
+            "their_review": {
+              "id": "2105084",
+              "rating": "4"
+            }
+          },
+          {
+            "book": {
+              "title": "The Sun Also Rises",
+              "id": "3876",
+              "url": "
+
+https://www.goodreads.com/book/show/3876.The_Sun_Also_Rises
+
+"
+            },
+            "your_review": {
+              "id": "498458753",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "1027",
+              "rating": "5",
+              "text": "
+
+I read this while backpacking through Europe after college. It was a fascinating insight into the Spanish culture - anyone going there should definitely read this.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "The Martian",
+              "id": "17315048",
+              "url": "
+
+https://www.goodreads.com/book/show/17315048-the-martian
+
+"
+            },
+            "your_review": {
+              "id": "1130426452",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "901720004",
+              "rating": "5",
+              "text": "
+
+Mark Watney is a steely-eyed missile man. A man's man. A badass mechanical engineer botanist astronaut who is stranded on Mars during a Nasa mission gone wrong, and left to fend for himself. I listened to this on audio on a roadtrip, and it flew by - what a fun story. Not surprised at all it's being made into <a href=\"http://www.hollywoodreporter.com/heat-vision/ridley-scott-direct-matt-damon-703887\" rel=\"nofollow\">a movie directed by Ridley Scott starring Matt Damon</a>. Also pretty amazing is that it was self-published.<br /><br />There were two great things about this book: the humor and the science. The science appealed to the mechanical engineer in me - Watney is a bit like McGyver except he knows a lot more about chemistry and botany. I didn't double-check all the science, but loved the descriptions of all the math: calorie calculations, creating water, etc. Just fun stuff. <br /><br />But the humor was top notch. Weir does a great job portraying a stranded man trying to remain upbeat by talking to himself in log entries. And the excellent audio narrator only made it better. <br /><br /><a href=\"https://www.goodreads.com/quotes/1138375-i-started-the-day-with-some-nothin-tea-nothin-tea\">\"I started the day with some nothin’ tea. Nothin’ tea is easy to make. First, get some hot water, then add nothin’.\"</a><br /><br /><a href=\"https://www.goodreads.com/quotes/1128170-yes-of-course-duct-tape-works-in-a-near-vacuum-duct\">“Yes, of course duct tape works in a near-vacuum. Duct tape works anywhere. Duct tape is magic and should be worshiped.”</a><br /><br /><a href=\"https://www.goodreads.com/quotes/1266391-live-another-sol-would-be-an-awesome-name-for-a\">\"Live Another Sol would be an awesome name for a James Bond movie.\"</a><br /><br />In the end, a well told story of survival against the odds. And one of belief - I liked the CNN Mark Watney watch - you could totally imagine how into this story the media would get. We humans love a good surviving against the odds story.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Atlas Shrugged",
+              "id": "662",
+              "url": "
+
+https://www.goodreads.com/book/show/662.Atlas_Shrugged
+
+"
+            },
+            "your_review": {
+              "id": "85569417",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "496",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+ Outliers: The Story of Success 
+",
+              "id": "3228917",
+              "url": "
+
+https://www.goodreads.com/book/show/3228917-outliers
+
+"
+            },
+            "your_review": {
+              "id": "85570612",
+              "rating": "4"
+            },
+            "their_review": {
+              "id": "37359748",
+              "rating": "4",
+              "text": "
+
+A great book and worth the read, but like many Gladwellian books, it can be summed up easily. The basic point is that there is no such thing as a true outlier. Success, it seems, is due primarily to hard work and circumstance - brains play little part. <br /><br />Gladwell went through several (fascinating) examples proving his thesis - people such as Bill Gates, Joe Flom at Skadden, Oppenheimer, some failed genius named Chris Langan. All of them had two things in common: they spent over 10,000 hours doing what they did, and they had fortunate circumstances that let them get ahead of everyone else. Bill Gates was smart, but so were lots of other geeks. He had the advantage of being 16 when the computing age came about, and being possibly the only 16 year old in the country with access to a computer - and he spent all his time on it. By the time he hit college he had well over 10,000 hours of computer time and was arguably one of the foremost experts in the country. <br /><br />One of my favorite bits was the music study on page 39 that compared musicians, and \"couldn't find any 'naturals'\" - the skill of each musician at comparable amounts of practice was equal. It's kind of validating to hear this, as many of us have this feeling that there are naturally smarter people out there than us. But apparently this isn't true - and I think my personal experience agrees with this. The harder you work, the better you can do.<br /><br />One other big takeaway was how circumstance can change things. The hockey league study and elementary school studies were fascinating and relevant. Basically kids that are in the older third of their class (or hockey league) have a natural advantage when they're really little. They are the kids who make all-star, and get extra coaching, and because of that they practice more and thus do become better by the time they are older. I was held back in pre-school so I was one of the oldest in my class, and I definitely think it helped me. Hmmm now can I plan my kids to be born to be the oldest? <br /><br />
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Atonement",
+              "id": "6867",
+              "url": "
+ https://www.goodreads.com/book/show/6867.Atonement 
+"
+            },
+            "your_review": {
+              "id": "17962529",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "16291800",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "In Cold Blood",
+              "id": "168642",
+              "url": "
+
+https://www.goodreads.com/book/show/168642.In_Cold_Blood
+
+"
+            },
+            "your_review": {
+              "id": "174558763",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "36589359",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Dune",
+              "id": "1022863",
+              "url": "
+ https://www.goodreads.com/book/show/1022863.Dune 
+"
+            },
+            "your_review": {
+              "id": "1091622614",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "28",
+              "rating": "5",
+              "text": "
+
+When people ask me what my favorite book is, Dune is always my answer. Words cannot even do justice to what an epic tale this is. We learn about spirituality, human nature, politics, religion, and the making of a hero.<br /><br />I loved the spiritual aspects of the book the best. The philosophies and practices and Pranu Bindu training of the Bene Gesserit that Paul learns and builds upon. The Bene Gesserit believe in a training regiment that results in a superior human being - one with every sense as refined as possible. This means a focus on learning, on controlling emotion, on controlling your body. <br /><br />My absolute favorite quote from Dune is the Bene Gesserit litany against fear:<br /><br /><a href=\"http://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is\">\"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.\"</a><br /><br />The litany is meant to be recited when you are in a moment of fear, and as I first read Dune 20 years ago, I've employed it many times. After Paul employs it when he is fighting Jamis, the affect on him is described as \"a cool bath washing over him. He felt muscles untie themselves, become poised and ready.\" I have read a lot about people who perform at high levels - whether it be in athletics or business, and success is all about getting into that zen state where you have a clear, focused mind. Fear is the biggest thing that can cloud one's mind - usually fear of failure, but there are other forms too. While this Litany won't always eliminate it, I've felt it to be useful to recognize the fear and call it out for what it is.<br /><br />There is also a focus in the book on being able to read people by paying attention to the minutia. In many crucial scenes we see Paul and Jessica and others employing this skill, using not only their eyes, but reading the tone of what a person says, what their body language or actions say, and more. Imagine the poker player I could be if I learned these skills!<br /><br /><a href=\"http://www.goodreads.com/quotes/802187-if-you-rely-only-on-your-eyes-your-other-senses\">\"If you rely only on your eyes, your other senses weaken.\"</a><br /><br />It's interesting to me that so many science fiction novels contemplate a future with AI (aka post-singularity). In Dune, the <em>Butlerian Jihad</em> was the human rebellion to rid itself of AI or \"thinking machines\". They are now banned, and in their place we have Mentats, who are humans with processing powers far greater than any thinking machine. It's unclear to the software engineer in me how exactly that could be without some sort of physical manipulation (insertion of massive amounts of transistors, for instance), but the affect is pretty cool, we get Spock-esque beings who analyze everything extremely logically, and are great at political planning \"feints within feints within feints\". <br /><br />There was a lot in the book about leadership. It started with Paul first learning about it from his Father, and also from the Bene Gesserit. This quote stood out to me:<br /><br /><a href=\"http://www.goodreads.com/quotes/803028-she-asked-me-to-tell-her-what-it-is-to\">\"She asked me to tell her what it is to rule,\" Paul said. “And I said that one commands. And she said I had some unlearning to do.\" She hit a mark there right enough, Hawat thought. He nodded for Paul to continue. \"She said a ruler must learn to persuade and not to compel. She said he must lay the best coffee hearth to attract the finest men.\"</a><br /><br />Later as he grows into a leader himself, Paul learns that the most essential ingredient to be a leader is to lead people to a worthy goal.<br /><br /><a href=\"http://www.goodreads.com/quotes/803034-it-was-another-of-the-essential-ingredients-that-she-felt\">\"It was another of the essential ingredients that she felt her son needed: people with a goal. Such people would be easy to imbue with fervor and fanaticism. They could be wielded like a sword to win back Paul’s place for him.\"</a><br /><br />Much has been made in modern reviews of Dune of the fact that it's clearly a statement about oil and the Middle East. The book even admits the Fremen are of Sunni descent, and many words they use (Jinn, Jihad, etc) are Arabic. I'm not sure I understand all the undertones, but one thing that was clear was about control of the worlds most precious commodity: \"The people who can destroy a thing, they control it.\" I hope we are closing in on the end of the days when oil controls so much, but we aren't there yet. In the meantime, we had best beware of any future Harkonnen's.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Great Expectations",
+              "id": "2623",
+              "url": "
+
+https://www.goodreads.com/book/show/2623.Great_Expectations
+
+"
+            },
+            "your_review": {
+              "id": "85569748",
+              "rating": "3"
+            },
+            "their_review": {
+              "id": "1225306",
+              "rating": "4"
+            }
+          },
+          {
+            "book": {
+              "title": "The Scarlet Letter",
+              "id": "12296",
+              "url": "
+
+https://www.goodreads.com/book/show/12296.The_Scarlet_Letter
+
+"
+            },
+            "your_review": {
+              "id": "167581087",
+              "rating": "4"
+            },
+            "their_review": {
+              "id": "1102478",
+              "rating": "3"
+            }
+          },
+          {
+            "book": {
+              "title": "Steve Jobs",
+              "id": "11297044",
+              "url": "
+
+https://www.goodreads.com/book/show/11297044-steve-jobs
+
+"
+            },
+            "your_review": {
+              "id": "275832833",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "219785273",
+              "rating": "5",
+              "text": "
+
+This is an amazing inside view into the life of one of the great businessmen of our era. A must read. <br /><br />The thing that struck me most about Steve Jobs was that he was an incredible perfectionist. He was a craftsman, and wanted the computers he built to be beautiful and amazing and useful.
+
+
+He believed that computers were \"at the intersection of technology and liberal arts\" - a phrase he used a lot - because he realized computers weren't just for geeks. They are for everyone, and needed to be able to be used by everyone.<br /><br />Steve put design at the top of product pyramid at Appl
+
+
+e - above engineering. This means they spent a lot of time trying to fit the hardware into the beautifully designed cases the designers came up with, and the designers and engineers had to work together closely. This can backfire (eg Antennagate), but largely it worked really well. It produced amazing computers that were visually distinct from everything else in the market, and that \"just work\". If I learned anything from this book, it's that Apple believed that design is paramount, and spending extra time and engineering resources to make a beautiful design work is worth it.<br /><br />Apple's design philosophy is to <a href=\"http://www.goodreads.com/quotes/show/470031\">\"make it simple. Really simple\"</a>. You still see this today - go to <a href=\"http://www.apple.com/\" rel=\"nofollow\">Apple.com</a> - you will see ONE product. Now try <a href=\"http://www.amazon.com\" rel=\"nofollow\">Amazon</a>. According to the book, Jobs learned this from Markkula, who taught him that \"A great company must be able to impute its values from the first impression it makes\". <br /><br />Steve's ethos was basically that if you are going to do something, do it right. The book is full of examples of Steve doing this. When the iMac first came out it looked like no other computer. It was interesting to hear how difficult it was for the engineers to accommodate a handle on the computer - but it ended up being a defining feature of the computer. I also loved the story of how Steve was obsessed with quality glass, and ordered the highest end stuff he could find for his Apple Stores.<br /><br />Steve's management tactics got a lot of scrutiny in the book - and many other reviewers use words like \"jerk\" to describe him. It sounds like Steve could definitely be a jerk to work for. His management style was to push people as hard as he could, and to let people know when they didn't perform. When pushed like that, a person can have one of two reactions: they either resent it, and end up quitting or getting fired (B-players) - or they accept the challenge to do better, and come back the next week with something even better. Win-win for Steve - he filters out the b-players and gets his a-players to produce the best work they can. <br /><br />But, as was pointed out in the book, if Steve was nothing but a jerk, he wouldn't have built a company full of loyal employees - Apple has one of the lowest turnover rates in the valley. Jobs only hired people who \"had a passion for the product\". I also liked how he motivated by looking at the bigger picture; such as the story of how he convinced his engineer that saving 10 seconds off the boot time was worth it because across 5 million users that would save 100 lifetimes per year.<br /><br />The book was full of references to Steve's dynamic personality; his <a href=\"http://www.goodreads.com/quotes/show/467797\">\"reality distortion field\"</a> is a great descriptor. Steve believed he could do anything - and he was <a href=\"http://www.goodreads.com/quotes/show/470713\">so persuasive</a> that he could convince those around him that they could whatever it was too. I think this is one of the most defining qualities of an entrepreneur - believing something can be done against all odds. Not being afraid to <a href=\"http://www.youtube.com/watch?v=UvEiSa6_EPA\" rel=\"nofollow\">tear down walls</a> or think outside the box. <br /><br />I loved the description of Steve that \"whatever he was touting was the best thing he ever produced.\" You see him do this in his keynote speeches too. He is always using words like \"best\", \"amazing\", etc to describe whatever he's launching. <br /><br />A big theme that the author made was that especially early on, Steve viewed Apple as \"counter-culture\" rebels. They were hippies who thought they could change the world. And they did - but not only that - I think they embedded their can-do attitude deep in Silicon Valley, which is probably highly correlated with why it is the center of the technology revolution today. This quote is classic:<br /><br /><blockquote> <a href=\"http://www.goodreads.com/quotes/show/467763\">\"The people who invited the twenty-first century were pot-smoking, sandal-wearing hippies from the West Coast like Steve, because they saw differently. The hierarchical systems of the East Coast, England, Germany, and Japan do not encourage this different thinking. The sixties produced an anarchic mind-set that is great for imagining a world not yet in existence.\"</a> </blockquote><br /><br />One of Steve's great abilities was <a href=\"http://www.goodreads.com/quotes/show/470037\">to focus</a>. When Jobs came back to Apple from his hiatus the biggest innovation he made was to <a href=\"http://www.youtube.com/watch?v=H8eP99neOVs\" rel=\"nofollow\">focus the company</a> onto just the few products that were working or had potential. <br /><br /><blockquote> <a href=\"http://www.goodreads.com/quotes/show/470039\">\"What are the five products you want to focus on? Get rid of the rest, because they’re dragging you down. They’re turning you into Microsoft. They’re causing you to turn out products that are adequate but not great.\"</a> </blockquote><br /><br />Steve's belief that computers need to be beautiful and easy to use basically prevented him from ever licensing his software, as then he wouldn't be able to control the user experience. Microsoft didn't have that problem, and that's why Windows dominated. I think it's also the reason that Windows is in trouble today. They have spent a decade making their code work across hundreds of different hardware configurations. Their code is now full of backwards compatibility support that just makes it messy, and bloated. Worse, their focus is on maintaining all that instead of innovating and improving it. <br /><br />The platform vs integrated approach is being tested again with the iphone vs android. It will be interesting to see if history replays itself, or if Apple's lead and ability to make a superior product because of their full stack control will prevail.<br /><br />In the end, this was the best quote of the book:<br /><br /><blockquote> <a href=\"http://www.goodreads.com/quotes/show/445101\">Stay Hungry. Stay Foolish.</a> </blockquote><br />
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Bossypants",
+              "id": "9418327",
+              "url": "
+
+https://www.goodreads.com/book/show/9418327-bossypants
+
+"
+            },
+            "your_review": {
+              "id": "167583646",
+              "rating": "4"
+            },
+            "their_review": {
+              "id": "211215351",
+              "rating": "4",
+              "text": "
+
+A hilarious and book from Tina Fey - definitely worth listening to over audio as she reads it herself. She makes fun of herself a lot, adds lots of light humor, and of course shares TMI.<br /><br />The most interesting bit was hearing the behind the scenes of Saturday Night Live, and how she was a joke writer there for 3 years before they gave her a role on the show, which was only doing the news. Her breakout occurred after she had already left for 30 Rock, when she did the Sarah Palin impersonation. Tina is clearly an example of someone who has worked long and hard to get where she is.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Anna Karenina",
+              "id": "151",
+              "url": "
+
+https://www.goodreads.com/book/show/151.Anna_Karenina
+
+"
+            },
+            "your_review": {
+              "id": "167576492",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "1206095",
+              "rating": "to-read",
+              "text": "
+
+Well if Melanie says its her BBE, I gotta check it out...
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "The Count of Monte Cristo",
+              "id": "7126",
+              "url": "
+
+https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo
+
+"
+            },
+            "your_review": {
+              "id": "17962502",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "1326",
+              "rating": "5",
+              "text": "
+
+One of my all-time favorites. The ultimate revenge story. One fascinating aspect to think about was that back in the day this novel appeared as a series of articles in the newspaper in France...
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "One Hundred Years of Solitude",
+              "id": "320",
+              "url": "
+
+https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude
+
+"
+            },
+            "your_review": {
+              "id": "1352946597",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "2216",
+              "rating": "4",
+              "text": "
+
+This book may as well have been called One Hundred Years of Inbreeding And Human Drama. It was basically a story about a small town where the gene pool is so small that everyone marries their relations, and it seems like life spirals more and more downward and out of control over 100 years. I really enjoyed the authors ability to bring these crazy characters to life, and explain the story behind how each one's quirks strange behavior. The book started out really strong, stagnated a bit for me 2/3 of the way in, but I loved the ending. <br /><br />I also thought the inclusion of magical elements throughout the story was an interesting and fun twist. Melquíades's scrolls, the floating priest, etc. According to Wikipedia this is called \"magical realism\". Thinking about all the movies and TV shows being produced now, it seems that this is a common plot element nowadays!
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "A Tale of Two Cities",
+              "id": "1953",
+              "url": "
+
+https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities
+
+"
+            },
+            "your_review": {
+              "id": "167577085",
+              "rating": "3"
+            },
+            "their_review": {
+              "id": "9991861",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Les Misérables",
+              "id": "24280",
+              "url": "
+
+https://www.goodreads.com/book/show/24280.Les_Mis_rables
+
+"
+            },
+            "your_review": {
+              "id": "365077889",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "69694201",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Sense and Sensibility",
+              "id": "37553",
+              "url": "
+
+https://www.goodreads.com/book/show/37553.Sense_and_Sensibility
+
+"
+            },
+            "your_review": {
+              "id": "17962373",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "132400333",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Slaughterhouse-Five",
+              "id": "4981",
+              "url": "
+
+https://www.goodreads.com/book/show/4981.Slaughterhouse_Five
+
+"
+            },
+            "your_review": {
+              "id": "167576430",
+              "rating": "3"
+            },
+            "their_review": {
+              "id": "488191",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "
+ The Adventures of Huckleberry Finn 
+",
+              "id": "2956",
+              "url": "
+
+https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn
+
+"
+            },
+            "your_review": {
+              "id": "167581624",
+              "rating": "4"
+            },
+            "their_review": {
+              "id": "581",
+              "rating": "5"
+            }
+          },
+          {
+            "book": {
+              "title": "Fahrenheit 451",
+              "id": "4380",
+              "url": "
+
+https://www.goodreads.com/book/show/4380.Fahrenheit_451
+
+"
+            },
+            "your_review": {
+              "id": "495070205",
+              "rating": "to-read"
+            },
+            "their_review": {
+              "id": "4532",
+              "rating": "4",
+              "text": "
+ I remember liking it in high school... 
+"
+            }
+          },
+          {
+            "book": {
+              "title": "Jane Eyre",
+              "id": "9715309",
+              "url": "
+
+https://www.goodreads.com/book/show/9715309-jane-eyre
+
+"
+            },
+            "your_review": {
+              "id": "17962451",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "148400534",
+              "rating": "to-read"
+            }
+          },
+          {
+            "book": {
+              "title": "Romeo and Juliet",
+              "id": "18135",
+              "url": "
+
+https://www.goodreads.com/book/show/18135.Romeo_and_Juliet
+
+"
+            },
+            "your_review": {
+              "id": "167578555",
+              "rating": "4"
+            },
+            "their_review": {
+              "id": "2105082",
+              "rating": "4"
+            }
+          },
+          {
+            "book": {
+              "title": "Pride and Prejudice",
+              "id": "1893",
+              "url": "
+
+https://www.goodreads.com/book/show/1893.Pride_and_Prejudice
+
+"
+            },
+            "your_review": {
+              "id": "17962361",
+              "rating": "5"
+            },
+            "their_review": {
+              "id": "320",
+              "rating": "5",
+              "text": "
+
+So the other day Elizabeth and I are in the book store and she saw this book, and said she really wanted me to read it. In horror at the thought of reading what I thought was a 'chick book', i immediately countered that she would then have to read one of my favorites: Dune. She agreed!<br /><br />So I read it, and I have to admit, it was good - damn good. Even though there was a serious lack of any gratuitous violence, I tore through it in several days. Austen is an amazing writer, and has a particular talent for explaining her characters deep motivations (or prejudices) in a few defining sentences.<br /><br />I think my favorite part of it is the unwinding of Elizabeths' prejudices against Mr Darcy. It is done so slowly and artfully and believably that the reader is completely pulled into the story. <br /><br /> It is a definite period piece - here are a few funny observations:<br />- Nobody in the book had a job - they all earned income from their estates<br />- Since nobody had jobs they spent all day gossiping<br />- People were judged not by what they did for a living but what family they were from and how they behaved in society. Completely different from today!<br />- Dating was much tougher back then. You needed at least 10 dates to get anywhere, and you probably had to marry in order to go all the way.<br /><br />Jokes aside, this is a classic, and I highly recommend it for any guy or girl.
+
+"
+            }
+          },
+          {
+            "book": {
+              "title": "The Great Gatsby",
+              "id": "4671",
+              "url": "
+
+https://www.goodreads.com/book/show/4671.The_Great_Gatsby
+
+"
+            },
+            "your_review": {
+              "id": "468251687",
+              "rating": "3"
+            },
+            "their_review": {
+              "id": "2213",
+              "rating": "4",
+              "text": "
+
+I read this classic twice in high school. Its hard to like books you read in high school, but this one stood out - couldn't tell you why anymore :)
+
+"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
